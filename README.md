@@ -16,4 +16,4 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-NOTE : Add your Google Map API in "AndroidManifest.xml" file. 
+NOTE : Add your Google Map API Key in "AndroidManifest.xml" file. 

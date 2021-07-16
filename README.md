@@ -1,6 +1,7 @@
 # flutter_google_map_practice
 
-A new Flutter project.
+**Accessing & Working with Google Map API in Flutter
+**
 
 ## Getting Started
 
